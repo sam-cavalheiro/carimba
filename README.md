@@ -4,7 +4,7 @@ Você é um gambá que caiu em um prédio, e agora sai carimbando tudo que vê p
 
 O jogo ainda está em fase de prototipação e testes.
 
-Jogo feito para FelpoJam 2026. Feito com [Godot](https://godotengine.org/).
+Jogo feito para FelpoJam 2026. Feito com [Godot](https://godotengine.org/){:target="_blank"}.
 
 ## Licenças
 
